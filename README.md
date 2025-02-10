@@ -38,3 +38,8 @@ This repository contains various **Natural Language Processing (NLP)** projects,
 
 
 
+## 📂 Project List
+| Project Name | Description | Algorithms Used |
+|-------------|------------|----------------|
+|  **Twitter_Sentiment_Analysis** | Sentiment Analysis using Random Forest models | Random Forest |
+
